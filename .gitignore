@@ -1,0 +1,47 @@
+# Python specific #
+###################
+*.pyc
+__pycache__/
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.egg
+*.eggs
+
+# macOS specific #
+##################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors #
+####################
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous #
+#################
+node_modules/
+bower_components/
+*.tmp
+*.bak
+*.swp
+*.nfs*
+*.DS_Store
+
+data/
+results/
+preprocessing/

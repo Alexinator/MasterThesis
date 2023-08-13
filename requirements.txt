@@ -1,0 +1,16 @@
+pandas
+openpyxl
+numpy
+neurokit2
+matplotlib
+tqdm
+tensorflow
+scikit-learn
+wfdb
+scipy
+imbalanced-learn
+PyWavelets
+statsmodels
+seaborn
+pydot
+graphviz
